@@ -1,0 +1,87 @@
+{
+  "employee": [
+    {
+      "id": "6",
+      "nomi": "Rustic Plastic Cheese",
+      "narxi": "190.00",
+      "img": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/227.jpg"
+    },
+    {
+      "createdAt": "2024-05-20T08:48:34.668Z",
+      "img": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/129.jpg",
+      "nomi": "Bespoke Fresh Computer",
+      "narxi": "477.00",
+      "id": "9"
+    },
+    {
+      "createdAt": "2024-05-19T23:12:35.658Z",
+      "img": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/748.jpg",
+      "nomi": "Handcrafted Metal Shoes",
+      "narxi": "260.00",
+      "id": "10"
+    },
+    {
+      "createdAt": "2024-05-20T02:02:00.252Z",
+      "img": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/200.jpg",
+      "nomi": "Modern Steel Shirt",
+      "narxi": "529.00",
+      "id": "11"
+    },
+    {
+      "createdAt": "2024-05-20T12:18:50.478Z",
+      "img": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/424.jpg",
+      "nomi": "Tasty Soft Fish",
+      "narxi": "296.00",
+      "id": "12"
+    },
+    {
+      "createdAt": "2024-05-20T11:29:49.745Z",
+      "img": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/259.jpg",
+      "nomi": "Licensed Steel Cheese",
+      "narxi": "780.00",
+      "id": "13"
+    },
+    {
+      "createdAt": "2024-05-20T12:30:00.691Z",
+      "img": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/227.jpg",
+      "nomi": "Fantastic Frozen Salad",
+      "narxi": "888.00",
+      "id": "14"
+    },
+    {
+      "createdAt": "2024-05-20T08:29:18.906Z",
+      "img": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/757.jpg",
+      "nomi": "Modern Steel Pizza",
+      "narxi": "539.00",
+      "id": "15"
+    },
+    {
+      "createdAt": "2024-05-20T06:43:53.315Z",
+      "img": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1036.jpg",
+      "nomi": "Modern Steel Salad",
+      "narxi": "239.00",
+      "id": "16"
+    },
+    {
+      "createdAt": "2024-05-19T18:13:12.756Z",
+      "img": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/259.jpg",
+      "nomi": "Intelligent Cotton Bacon",
+      "narxi": "439.00",
+      "id": "17"
+    },
+    {
+      "createdAt": "2024-05-19T14:09:45.065Z",
+      "img": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/659.jpg",
+      "nomi": "Fantastic Frozen Gloves",
+      "narxi": "734.00",
+      "id": "18"
+    },
+    {
+      "createdAt": "2024-05-19T15:28:33.233Z",
+      "img": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1158.jpg",
+      "nomi": "Refined Cotton Mouse",
+      "narxi": "572.00",
+      "id": "19"
+    }
+  ]
+}
